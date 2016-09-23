@@ -7,7 +7,7 @@ description: |
   processes running on a computer, normally ordered by the amount of CPU usage.
 
 grade: devel
-confinement: strict
+confinement: devmode
 
 apps:
   htop:
